@@ -17,7 +17,7 @@ I specialize in **Unreal Engine 5**, **Unity**, **C++**, and **C#**, and love cr
 
 <div align="center">
 
-<a href="https://github.com/Svampp/UnrealProjects" target="_blank">
+<a href="https://github.com/Svampp/UnrealEngine" target="_blank">
   <img src="https://img.shields.io/badge/Unreal%20Engine-Portfolio-8E2DE2?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </a>
 
