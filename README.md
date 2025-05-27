@@ -18,11 +18,11 @@ I specialize in **Unreal Engine 5**, **Unity**, **C++**, and **C#**, and love cr
 <div align="center">
 
 <a href="https://github.com/Svampp/UnrealEngine" target="_blank">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-Portfolio-8E2DE2?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-8E2DE2?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </a>
 
 <a href="https://github.com/Svampp/UnityProjects" target="_blank">
-  <img src="https://img.shields.io/badge/Unity-Portfolio-2D9EE2?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-2D9EE2?style=for-the-badge&logo=unity&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/anna-pennie-154619293/" target="_blank">
@@ -30,6 +30,7 @@ I specialize in **Unreal Engine 5**, **Unity**, **C++**, and **C#**, and love cr
 </a>
 
 </div>
+
 
 ---
 
