@@ -1,19 +1,19 @@
 <h1 align="center"> Hi, I'm Anna Pennie</h1>
 
 <p align="center">
-🎮 Game Programmer | 💡 Game Developer | 🛠 Unity & Unreal Developer  
+Game Programmer | Game Developer | Unity & Unreal Developer  
 </p>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a passionate game development student graduating from Business College Helsinki with a focus on **Game Programming**.  
 I specialize in **Unreal Engine 5**, **Unity**, **C++**, and **C#**, and love creating engaging AI, combat mechanics, and immersive gameplay systems.
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -33,13 +33,13 @@ I specialize in **Unreal Engine 5**, **Unity**, **C++**, and **C#**, and love cr
 
 ---
 
-### 🛠 Tech Stack & Skills
+### Tech Stack & Skills
 
-- 🎮 Unity, Unreal Engine 5  
-- 💻 C++, C#, Python, .NET  
-- 🤖 AI, Gameplay Mechanics 
-- 🎨 Adobe XD, Git & GitHub  
-- 🌐 HTML, CSS, SQL  
+- Unity, Unreal Engine 5  
+- C++, C#, Python, .NET  
+- AI, Gameplay Mechanics 
+- Adobe XD, Git & GitHub  
+- HTML, CSS, SQL  
 
 ---
 
