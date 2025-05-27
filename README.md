@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Anna Pennie</h1>
+<h1 align="center"> Hi, I'm Anna Pennie</h1>
 
 <p align="center">
 🎮 Game Programmer | 💡 Game Developer | 🛠 Unity & Unreal Developer  
@@ -46,7 +46,6 @@ I specialize in **Unreal Engine 5**, **Unity**, **C++**, and **C#**, and love cr
 ### 📬 Contact
 
 - ✉️ Email: [anna.pennie04@gmail.com](mailto:anna.pennie04@gmail.com)  
-- 🧠 GitHub: [github.com/Svampp](https://github.com/Svampp)
 
 ---
 
